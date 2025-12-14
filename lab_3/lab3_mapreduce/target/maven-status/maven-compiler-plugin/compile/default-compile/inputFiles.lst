@@ -1,0 +1,4 @@
+/home/chihab/bigdata_labs/lab_2/lab3_mapreduce/src/main/java/edu/supmti/hadoop/mapreduce/TokenizerMapper.java
+/home/chihab/bigdata_labs/lab_2/lab3_mapreduce/src/main/java/edu/supmti/hadoop/mapreduce/WordCount.java
+/home/chihab/bigdata_labs/lab_2/lab3_mapreduce/src/main/java/edu/supmti/hadoop/mapreduce/Main.java
+/home/chihab/bigdata_labs/lab_2/lab3_mapreduce/src/main/java/edu/supmti/hadoop/mapreduce/IntSumReducer.java
